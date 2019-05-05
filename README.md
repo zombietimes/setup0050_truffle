@@ -15,7 +15,7 @@ I focus on Ethereum and Loom Network as the DApps.
 Truffle framework is the deployment environment of smart contracts.  
 We can compile and upload our smart contracts to the blockchains.  
 And we can debug the smart contract executed on the blockchain.  
-[Truffle : Official](https://truffleframework.com/)  
+- [Truffle : Official](https://truffleframework.com/)  
 
 ### Constitution
 [setup0000_all](https://github.com/zombietimes/setup0000_all) is the instruction script file to run the other script files.  
@@ -50,8 +50,8 @@ git clone https://github.com/zombietimes/setup0050_truffle.git
 cd setup0050_truffle
 sh ./ubuntuCmd_setupTruffle.sh
 ```
-![setup0050_truffle_0000.png]()  
-![setup0050_truffle_0001.png]()  
+![setup0050_truffle_0000](https://user-images.githubusercontent.com/50263232/57186269-20fea100-6f17-11e9-989f-a543d0b6c6a5.png)  
+![setup0050_truffle_0001](https://user-images.githubusercontent.com/50263232/57186273-2f4cbd00-6f17-11e9-8867-da52e2f32c98.png)  
 
 ## Requirement
 I confirmed that it works on Ubuntu Desktop 18.04 in VirtualBox.  
@@ -60,25 +60,25 @@ It works on the environment below.
 - Google Chrome.
 - [setup0040_nodeJs](https://github.com/zombietimes/setup0040_nodeJs)
 
-## Relative links
+## Relative link
 ### Overview
-[Ethereum : Official](https://www.ethereum.org/)  
-[Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)  
-[Loom Network : Official](https://loomx.io/)  
-[Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)  
+- [Ethereum : Official](https://www.ethereum.org/)
+- [Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
+- [Loom Network : Official](https://loomx.io/)
+- [Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)
 
 ### Development
-[Online editor : EthFiddle](https://ethfiddle.com/)  
-[Online editor : Remix](https://remix.ethereum.org/)  
+- [Online editor : EthFiddle](https://ethfiddle.com/)
+- [Online editor : Remix](https://remix.ethereum.org/)
 
 ### Learning
-[Online learning : CryptoZombies](https://cryptozombies.io/)  
-[Grammar : Solidity](https://solidity.readthedocs.io/)  
-[Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)  
+- [Online learning : CryptoZombies](https://cryptozombies.io/)
+- [Grammar : Solidity](https://solidity.readthedocs.io/)
+- [Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 
 ### DApps
-[DApps : CryptoKitties](https://www.cryptokitties.co/)  
-[DApps : Zombie Battle ground](https://loom.games/en/)  
+- [DApps : CryptoKitties](https://www.cryptokitties.co/)
+- [DApps : Zombie Battle ground](https://loom.games/en/)
 
 ## Messages
 Do you believe that the decentralized world is coming?  
@@ -87,7 +87,4 @@ Why?
 
 ## License
 BSD 3-Clause, see `LICENSE` file for details.  
-
----
-Produced by Zombie Times  
 
